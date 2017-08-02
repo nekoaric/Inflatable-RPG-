@@ -1,0 +1,26 @@
+ATTRIBUTES
+-Player Attributes-
+--standard
+level:
+weight: relate to your pets' weight and get some skill .
+money: use to improve Attributes
+
+
+-Pet Attributes-
+Species : relate some standard attributes
+Material : relate some Material attributes
+Size : another kind of level
+love£¨£¿£©: some skill related 
+--Standard Attributes-
+power : can lower enemy's HP or recover self or enemy's HP .
+speed : if it is 49vs7  that means  49 can deal 7 times attack a round.
+defence : reduce every HP changes.
+health (air) :
+extra hp : the more,the power¡ü,speed¡ý(as (currentHP-HP)/ extra HP)% , if 
+currentHP > (extra HP+HP)  , that means win(bursted) .
+dexterity : dodge enemy's attack .
+weight  : relate to owner's weight to use some mutil-skills 
+--Material Attributes---
+Stretch ability - the higher the more extra air(HP) can hold , dex ¡ü  def¡ý
+Temperatura range - when <min  ex HP¡ý dex¡ýdef¡ý £¬when >max dex¡ü power¡ü,slowly loss HP
+Thicker - ther higher dex¡ýdef¡üweight¡ü
