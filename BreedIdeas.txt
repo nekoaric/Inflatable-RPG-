@@ -1,0 +1,3 @@
+-BREED-
+1.get material from enemy through batter.such as latex ,rubber ,vinyl ,tpu ,silicon .
+2.get money through selling material .

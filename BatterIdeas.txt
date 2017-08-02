@@ -1,0 +1,26 @@
+BatterIdeas
+-mode-
+move round by round , calculate the speed and set movements  .
+for example : sea-dragon: speed 12 , husky:speed 36 . that means husky can set three movements at a round .for more example , sea-dragon use attack , husky use heal-self x3 , then husky random take the damage one time from sea-dragon  , and heal 3 times use it's power point.
+-skill-
+get skill points when batter , relate to the love ,then  add one skill one time a round .
+example: I get three slot a round , set heal,heal,mouth-to-mouth blow(skill) this round . then ,my pet heal 2 times and reduce his half life add to enemy's life.
+-skill with owner-
+another skill random appears in batter , relate to how much life and owner's weight ,yes , ride your pet and get win .
+
+-normal movement-
+attack
+sniff (heal self)
+pump (heal enemy)
+guard (percent reduce Hp change)
+
+-normal skills(could be guard)-
+mouth-to-mouth blow : reduce  half HP add to enemy's HP.
+share : sum the total HP and force both to average.
+pins everywhere : loss HP every movement .
+deep breath : recovery HP every movement .
+temperature contol : some like pokemon weather.
+
+-ultimate skill -
+knight's pride : deal a great damage when pet get the right HP percent that can hold the owner perfectly .
+vore : sharply drain enemy's HP in a round when the Hp become right proportion .

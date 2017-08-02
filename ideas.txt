@@ -1,8 +1,4 @@
--Character Attributes-
-Species
-Material 
-Size
------Material Attributes---
-Stretch ability
-Temperatura range
-Softness
+I love this inflatable amazing stuff.
+so I try to make a game and learn how to use Git .
+that's all. just do it .
+
