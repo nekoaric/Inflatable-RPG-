@@ -1,0 +1,8 @@
+-Character Attributes-
+Species
+Material 
+Size
+-----Material Attributes---
+Stretch ability
+Temperatura range
+Softness
